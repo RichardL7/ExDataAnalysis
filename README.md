@@ -43,6 +43,7 @@ Our overall goal here is simply to examine how household energy usage varies ove
 
 First you will need to fork and clone the following GitHub repository: https://github.com/rdpeng/ExData_Plotting1
 
+
 For each plot you should
 
   •	Construct the plot and save it to a PNG file with a width of 480 pixels and a height of 480 pixels.
@@ -61,4 +62,4 @@ The four plots that you will need to construct are shown below.
 
 ## Plot 1
 
-  
+ 
