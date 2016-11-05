@@ -1,3 +1,3 @@
-## Exploratory Data ANalysis
+## Exploratory Data Analysis
 
 ## Introduction
