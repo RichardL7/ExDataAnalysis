@@ -26,7 +26,7 @@ The following descriptions of the 9 variables in the dataset are taken from the 
                       
 
 ## Loading the dataless 
-When loading the dataset into R, please consider the following:
+Loading the dataset into R as following:
 
   •	The dataset has 2,075,259 rows and 9 columns. First calculate a rough estimate of how much memory the dataset will require in
     memory before reading into R. Make sure your computer has enough memory (most modern computers should be fine).
